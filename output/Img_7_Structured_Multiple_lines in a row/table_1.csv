@@ -1,0 +1,10 @@
+,CardNumber, a, b, c
+0,"Birthdate, CardExpiry",Date,ICP,\ Birthdate for determining the ag:
+1,"Birthdate, Card Expiry",Date,IPD,\Credit card expiry data.
+2,YesToMarketing _,Boolean,cP,Opt-in choice for personalized m
+3,ParentConsent,Boolean,ic,ass  ise to true if parent consent ha:  oiven.
+4,ParentID,\String,Icp,\Identifier of the parent.
+5,Password,String,jcP,Password for authentication of th  enhiant
+6,OrderHistory,is,jo,The order history managed by tl  terprise.
+7,DataSource,string,Mp,re source where the form has  obtained.
+8,UserName,\String,\mMD,\The user name of the data subjec
